@@ -17,7 +17,7 @@
 <img src="Images/img5.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img6.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img7.jpeg" height="400px"  width="200px" style="display:inline;"/> 
 
 ## Video of the app 
-[![Watch the video]()](https://youtu.be/B6xgIvXJ_34)
+[![Watch the video](Images/img8.jpeg)](https://youtu.be/B6xgIvXJ_34)
 
 ### Possible Developments in future
 - Giving priorites to the patient's requests
