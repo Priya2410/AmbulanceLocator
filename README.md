@@ -1,6 +1,6 @@
 # AmbulanceLocator
 ### What does the app do?
-- The app lets the user find nearby and as well as call the nearby ambulances. 
+- The app lets the user find nearby ambulances and as well as call the nearby ambulances. 
 - The user doesnt need to login as he shall presumably be in an emergency situation , so an anonymous login is used.
 - The app lets the user login as helper or patient .
 - The helper can see the nearby requests and accept a request and he/she will be directed to google maps with the directions to the route.
@@ -17,7 +17,7 @@
 <img src="Images/img5.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img6.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img7.jpeg" height="400px"  width="200px" style="display:inline;"/> 
 
 ## Video of the app 
-[![Watch the video](Images/img8.jpeg)](https://youtu.be/B6xgIvXJ_34)
+[<img src="Images/img8.jpeg" height="400px"  />](https://youtu.be/B6xgIvXJ_34)
 
 ### Possible Developments in future
 - Giving priorites to the patient's requests
