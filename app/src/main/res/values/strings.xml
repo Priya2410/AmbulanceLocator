@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ambulance Locator</string>
+    <string name="title_activity_patient">Map</string>
+    <string name="title_activity_helpers_location">Map</string>
+</resources>
