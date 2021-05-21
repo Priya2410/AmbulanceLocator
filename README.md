@@ -17,7 +17,7 @@
 <img src="Images/img5.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img6.jpeg" height="400px"  width="200px" style="display:inline;"/> <img src="Images/img7.jpeg" height="400px"  width="200px" style="display:inline;"/> 
 
 ## Video of the app  :clapper:
-[<img src="Images/img8.jpeg" height="400px"  />](https://youtu.be/B6xgIvXJ_34)
+[<img src="Images/img8.jpeg" height="400px"  />](https://youtu.be/vQGGrmhNRNY)
 
 ### Possible Developments in future
 - [ ]  Giving priorites to the patient's requests
