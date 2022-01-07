@@ -21,7 +21,6 @@
 
 ### Possible Developments in future
 - [ ]  Giving priorites to the patient's requests
-- [ ] this is an incomplete item
 - [ ]  Mentioning the type of problem so that possible arrangements can be made
 - [ ]  Improvements in the UI 
 ### How to run the app ? :arrow_forward:
